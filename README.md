@@ -10,3 +10,4 @@ https://www.canva.com/design/DAE2dttCyNE/gh94im-xx5O2SBVD7uIvwQ/view?utm_content
 ## Resources:
 - https://github.com/A-GHOSH-dev/ArduinoTutorial
 - https://www.youtube.com/channel/UCyanTeuJjjNN8T01kqxYWOA
+- Link to Learn Processing: https://youtube.com/playlist?list=PLGoReixDGbdYuE-rVdOE6YLRYt-Td-Ymr
